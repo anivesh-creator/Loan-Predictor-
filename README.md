@@ -285,18 +285,18 @@ Which factors matter most for approval?
 
 ## 👨‍💻 Author
 
-Pranav Raghuvanshi
+Anivesh Singh
 
 🎓 **Academic Information:**
-- **Registration Number:** 25BCY10108
+- **Registration Number:** 25BSA10154
 - **College:** VIT Bhopal University
-- **Course:** B.Tech Computer Science & Engineering In Cybersecurity and Digital Forensics
+- **Course:** B.Tech Computer Science & Engineering In Cloud Computing And Automation
 - **Year:** First Year (2025-26)
 - **Semester:** 1st Semester
 
 📧 **Contact:**
-- **Email:** itspranavr02@gmail.com
-- **GitHub:** https://github.com/PranavTheDoomslayer
+- **Email:** anivesh1502@gmail.com
+- **GitHub:** https://github.com/anivesh-creator
 
 📅 **Project Date:** November 2025
 
@@ -334,8 +334,7 @@ This is a demonstration system. Real loan decisions require:
 
 **Have questions?**
 -  Read this README thoroughly
--  Email: itspranavr02@gmail.com
-
+-  Email: anivesh1502@gmail.com
 **Found a bug?**
 - Describe the problem
 - Include error message
@@ -363,4 +362,4 @@ If you found this helpful:
 
 ---
 
-**Made by Pranav**
+**Made by Anivesh**
